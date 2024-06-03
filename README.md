@@ -34,8 +34,7 @@
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="39" alt="oracle logo"  />
   <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="39" alt="laravel logo"  />
-  <img width="26" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
 </div>
 
