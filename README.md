@@ -1,4 +1,4 @@
-<p align="center">Welcome to my coding corner!ff 🚀<br>🎮 Building apps, writing code, and having fun. Let's collaborate and turn ideas into reality. Together,</p>
+<p align="center">Welcome to my coding corner!  🚀<br>🎮 Building apps, writing code, and having fun. Let's collaborate and turn ideas into reality. Together,</p>
 
 ###
 
@@ -19,21 +19,21 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10" alt="javascript logo"  />
-  <img width="26" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="10" alt="react logo"  />
-  <img width="26" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="10" alt="python logo"  />
-  <img width="26" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="10" alt="django logo"  />
-  <img width="26" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="10" alt="neo4j logo"  />
-  <img width="26" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="10" alt="docker logo"  />
-  <img width="26" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="10" alt="mongodb logo"  />
-  <img width="26" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="10" alt="oracle logo"  />
-  <img width="26" />
+  <img width="10" />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
 </div>
