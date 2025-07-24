@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammed12Khair&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammed12Khair&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mohammed12Khair&theme=dark&card_width=515" alt="GitHub Streak" /></a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohammed12Khair&theme=dark&card_width=515)](https://git.io/streak-stats)
 
 <br clear="both">
 
