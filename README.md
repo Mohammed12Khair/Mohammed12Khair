@@ -4,7 +4,7 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mohammed12Khair&theme=dark&card_width=500)](https://git.io/streak-stats)
-</div>
+
 
 <br clear="both">
 
