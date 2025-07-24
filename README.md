@@ -5,6 +5,12 @@
 
 ###
 
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Mohammed12Khair&theme=dark)](https://git.io/streak-stats)
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
