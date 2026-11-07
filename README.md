@@ -35,32 +35,8 @@ $ status
 
 ### `> ls ~/arsenal`
 
-**[telecom & integration]**
-
-<p>
-<img src="https://img.shields.io/badge/Ericsson-BSCS-00ff41?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Apigee-API%20Management-00ff41?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/REST%20%2F%20SOAP-Integration-00ff41?style=for-the-badge&labelColor=000000"/>
-</p>
-
-**[cloud & devops]**
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,linux,git,nginx&theme=dark"/>
-</p>
-
-**[programming]**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,java,js,react,html,cs,mysql,mongodb&theme=dark"/>
-</p>
-
-**[monitoring & automation]**
-
-<p>
-<img src="https://img.shields.io/badge/Grafana-Dashboards-00ff41?style=for-the-badge&logo=grafana&logoColor=00ff41&labelColor=000000"/>
-<img src="https://img.shields.io/badge/AppDynamics-Observability-00ff41?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/ELK-Stack-00ff41?style=for-the-badge&labelColor=000000"/>
+<p align="center">
+  <img width="100%" src="./arsenal.svg" alt="Arsenal: Ericsson BSCS, Apigee, REST, SOAP, BSS/OSS, AWS, GCP, Kubernetes, Docker, Linux, Git, Nginx, Python, Django, Java, JavaScript, React, HTML, C#, MySQL, MongoDB, Grafana, AppDynamics, ELK"/>
 </p>
 
 ---
