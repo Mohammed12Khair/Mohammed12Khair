@@ -2,6 +2,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Khair&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Telecom%20Engineer%20%7C%20BSS%2FOSS%20%7C%20Cloud%20%26%20API%20Integration&descAlignY=58&descSize=18"/>
 
 <p align="center">
+  <img width="100%" src="./space.svg" alt="UFO flying past a planet"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/Mohammed12Khair">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed;Telecommunications+Engineer;BSS%2FOSS+%26+Apigee+Specialist;Exploring+Cloud%2C+AI+%26+Automation" alt="Typing SVG"/>
   </a>
