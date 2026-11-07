@@ -36,7 +36,7 @@ $ status
 ### `> ls ~/arsenal`
 
 <p align="center">
-  <img width="100%" src="./arsenal.svg" alt="Arsenal: Ericsson BSCS, Apigee, REST, SOAP, BSS/OSS, AWS, GCP, Kubernetes, Docker, Linux, Git, Nginx, Python, Django, Java, JavaScript, React, HTML, C#, MySQL, MongoDB, Grafana, AppDynamics, ELK"/>
+  <img width="100%" src="./arsenal.svg" alt="Arsenal: Apigee, REST, SOAP, BSS/OSS, AWS, GCP, Kubernetes, Docker, Linux, Git, Nginx, Python, Django, Java, JavaScript, React, HTML, C#, MySQL, MongoDB, Grafana, AppDynamics, ELK"/>
 </p>
 
 ---
