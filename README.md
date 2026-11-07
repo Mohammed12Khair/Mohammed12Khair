@@ -35,56 +35,54 @@ $ status
 
 ### `> ls ~/arsenal`
 
-**Telecom & Integration**
+**[telecom & integration]**
 
 <p>
-<img src="https://img.shields.io/badge/Ericsson-BSCS-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apigee-API%20Management-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20%2F%20SOAP-Integration-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ericsson-BSCS-00ff41?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Apigee-API%20Management-00ff41?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/REST%20%2F%20SOAP-Integration-00ff41?style=for-the-badge&labelColor=000000"/>
 </p>
 
-**Cloud & DevOps**
+**[cloud & devops]**
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,linux,git,nginx"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,linux,git,nginx&theme=dark"/>
 </p>
 
-**Programming & Development**
+**[programming]**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,java,js,react,html,cs,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=python,django,java,js,react,html,cs,mysql,mongodb&theme=dark"/>
 </p>
 
-**Monitoring & Automation**
+**[monitoring & automation]**
 
 <p>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/AppDynamics-Observability-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ELK-Stack-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Grafana-Dashboards-00ff41?style=for-the-badge&logo=grafana&logoColor=00ff41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/AppDynamics-Observability-00ff41?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/ELK-Stack-00ff41?style=for-the-badge&labelColor=000000"/>
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+### `> ./stats.sh`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mohammed12Khair&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mohammed12Khair&background=000000&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=7CFC9A&dates=7CFC9A&hide_border=true"/>
 
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### `> ssh connect@linkedin`
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammedkhairtarig/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000"/>
 </a>
 </p>
 
 <p align="center">
-  <i>Always learning. Always building. Always improving.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Always+learning.+Always+building.+Always+improving.;Connection+closed.+Stay+curious+%F0%9F%91%BE" alt="footer"/>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
